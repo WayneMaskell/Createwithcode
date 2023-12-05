@@ -1,0 +1,92 @@
+trackSelection = true
+refreshSearchWindowsInPlayMode = false
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.310DEAF1" = ""
+	"OpenInspectorPreview.310DEAF1" = "0"
+	"currentGroup.310DEAF1" = "all"
+}
+providers = {
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	""
+	"Protot"
+	"Prototype1/Lib"
+	"Prototype1/Library/Pa"
+	"Prototype1/Library/PackageCac"
+	"Prototype1/Library/PackageCache/com.u"
+	"Prototype1/Library/PackageCache/com.unity.bu"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8."
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Run"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Runtime/lib"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Runtime/libburst-ll"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Runtime/libburst-llvm-15.d"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Runtime/libburst-llvm-15.dylib (11"
+	"Prototype1/Library/PackageCache/com.unity.burst@1.8.10/.Runtime/libburst-llvm-15.dylib (119.39 MB)"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+hideTabs = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true
