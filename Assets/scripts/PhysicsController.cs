@@ -13,6 +13,7 @@ public class PhysicsController : MonoBehaviour
     public float defaultSpeed = 40f;
     public float sprintSpeed= 80f;
     public Rigidbody playerRb;
+   
     // Start is called before the first frame update
     void Start()
     {
